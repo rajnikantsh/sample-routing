@@ -1,4 +1,4 @@
-###Build Project
+Build Project
 cd to project root.
 
 ```sh
